@@ -1,6 +1,6 @@
 # [r/SpaceX Mission Control](https://github.com/r-spacex/mission-control)
 
-JavaScript ![documentation %](https://r-spacex.github.io/image/badge.svg)
+JavaScript ![documentation %](https://r-spacex.github.io/docs/image/badge.svg)
 
 ## Servers
 
